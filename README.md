@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **kd071090/kd071090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... kierandickerson3@gmail.com
 - 😄 Pronouns: ...he/him/his
 - ⚡ Fun fact: ... I love basketball and I have been playing since I was nine years old.
--->
+
 
